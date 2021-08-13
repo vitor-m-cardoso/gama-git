@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gama-git/static/css/main.46c41232.chunk.css",
+    "main.js": "/gama-git/static/js/main.a998ede1.chunk.js",
+    "main.js.map": "/gama-git/static/js/main.a998ede1.chunk.js.map",
+    "runtime-main.js": "/gama-git/static/js/runtime-main.740dabbb.js",
+    "runtime-main.js.map": "/gama-git/static/js/runtime-main.740dabbb.js.map",
+    "static/js/2.03010b29.chunk.js": "/gama-git/static/js/2.03010b29.chunk.js",
+    "static/js/2.03010b29.chunk.js.map": "/gama-git/static/js/2.03010b29.chunk.js.map",
+    "index.html": "/gama-git/index.html",
+    "static/css/main.46c41232.chunk.css.map": "/gama-git/static/css/main.46c41232.chunk.css.map",
+    "static/js/2.03010b29.chunk.js.LICENSE.txt": "/gama-git/static/js/2.03010b29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.740dabbb.js",
+    "static/js/2.03010b29.chunk.js",
+    "static/css/main.46c41232.chunk.css",
+    "static/js/main.a998ede1.chunk.js"
+  ]
+}
